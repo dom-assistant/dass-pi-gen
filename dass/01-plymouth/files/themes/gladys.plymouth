@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=dass
+Description=Raspberry Pi Dom Assisstant Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dass
+ScriptFile=/usr/share/plymouth/themes/dass/dass.script
